@@ -1,0 +1,5 @@
+proxy_username ="username"
+proxy_password = "password"
+proxy_host = "host"
+proxy_port = "port"
+client_port = "port"
