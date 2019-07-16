@@ -12,7 +12,7 @@ client_port = ""
 where client_port is requester application port. Be ready to get response in GET request-body by this IP.
 
 # API
-To get an answer send GET-request to /predict
+To get an answer, send GET-request to /predict
 
 Parameters:
 * url - image URL (requiered)
